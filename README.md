@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Aditya Singh Rawat!
 
-Welcome to my GitHub! I’m a passionate developer diving deep into the worlds of **Python**, **AI/ML**, **Web Development**, and more. You’ll find a mix of personal projects, creative experiments, and real-world problem-solving here.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityasinghrawat54)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-rawat-0a7416326)
