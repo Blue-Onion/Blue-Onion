@@ -24,6 +24,8 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=gnu&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-2F2E8B?style=for-the-badge&logo=clerk&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
@@ -35,6 +37,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blue-Onion&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
