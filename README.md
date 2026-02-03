@@ -2,9 +2,6 @@
 
 Just your friendly neighbourhood developer.
 
-I enjoy building things that are simple, fast, and slightly opinionated — from backend systems to full-stack apps.  
-Currently spending most of my time with **Go**, **JavaScript/TypeScript**, and **databases**.
-
 ## 🛠 What I work with
 - Go, Python
 - JavaScript / TypeScript
