@@ -1,7 +1,7 @@
 
-Just your friendly neighbourhood developer.
+### Just your friendly neighbourhood developer.
 
-## 🛠 What I work with
+## What I work with
 - Go, Python
 - JavaScript / TypeScript
 - SQL & NoSQL databases
