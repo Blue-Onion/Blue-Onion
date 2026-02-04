@@ -1,4 +1,3 @@
-# 👋 Hi, I’m Blue-Onion
 
 Just your friendly neighbourhood developer.
 
