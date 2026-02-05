@@ -1,5 +1,5 @@
 
-### Just your friendly neighbourhood developer.
+### Just your friendly neighbourhood Developer.
 
 ## What I work with
 - Go, Python
