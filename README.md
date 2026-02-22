@@ -3,7 +3,7 @@
 
 ## What I work with
 - Go, Python
-- JavaScript / TypeScript
+- JavaScript 
 - SQL & NoSQL databases
 - React, Next.js
 - Backend APIs & system design
